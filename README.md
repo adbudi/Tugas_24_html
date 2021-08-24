@@ -1,5 +1,7 @@
 # Tugas_24_html
-getelementby Id.
-
-![tugas24](tg24.png)
+Table Caption, thead, tbody dan tfooter.
+# Tugas 1
+![tugas24](tg241.png)
+# Tugas 2
+![tugas24](tg242.png)
 
