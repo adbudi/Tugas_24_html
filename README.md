@@ -1,5 +1,5 @@
-# Tugas_32 javascript
+# Tugas_24_html
 getelementby Id.
 
-![tugas32](tgs32.png)
+![tugas24](tg24.png)
 
